@@ -16,9 +16,9 @@ This work day schedular lets everyone to note down their tasks and keep them wel
 
 https://bryance97.github.io/Work-Day-Scheduler/
 
-# Screenshot of my application
+## Screenshot of my application
 
-![](./assets\images\work-day-scheduler.png)
+![](.\assets\images\work-day-scheduler.png)
 
 
 
