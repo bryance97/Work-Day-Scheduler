@@ -18,7 +18,7 @@ https://bryance97.github.io/Work-Day-Scheduler/
 
 # Screenshot of my application
 
-![](.assets\images\work-day-scheduler.png)
+![](./assets\images\work-day-scheduler.png)
 
 
 
